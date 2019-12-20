@@ -6,7 +6,8 @@ Simple c++ program which removes comments from c, cpp, css, html, java, js, php,
  2. Quick detection of file type via file extention
  3. Fast
  4. Generic - [easy to add other programming languages](https://github.com/UriahShaulMandel/CommentsRemover/blob/ebb858a4143b4a5c33c95e2fb77263f13b202284/main.cpp#L11)
- 
+
+### [Download Here](https://github.com/UriahShaulMandel/CommentsRemover/raw/master/CommentsRemover.exe)
  ## Screenshots:
  ![](https://github.com/UriahShaulMandel/CommentsRemover/blob/master/py_screenshot.png?raw=true)
  
