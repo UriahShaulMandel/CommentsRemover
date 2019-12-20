@@ -1,4 +1,4 @@
-# CommentsRemover
+# CommentsRemover ![GitHub top language](https://img.shields.io/github/languages/top/UriahShaulMandel/CommentsRemover)
 Simple c++ program which removes comments from c, cpp, css, html, java, js, php, py files
 
 (small project I made in order to learn regexes in c++)
